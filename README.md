@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Botho Kakula 👋
 
 Final-year Application Development student at IIE Emeris Waterfall (Varsity College), Johannesburg. I build full-stack, mobile, and backend solutions with a focus on clean architecture and maintainable code.
@@ -20,6 +19,7 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -50,18 +50,4 @@ Varsity College, Johannesburg | 2023
 
 ---
 
-*Open to graduate opportunities*
-<!--
-**Bothokakula/Bothokakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to graduate opportunities — currently applying for the Entelect Graduate Programme.*
