@@ -50,4 +50,4 @@ Varsity College, Johannesburg | 2023
 
 ---
 
-*Open to graduate opportunities — currently applying for the Entelect Graduate Programme.*
+*Open to graduate opportunities *
