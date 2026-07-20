@@ -33,6 +33,13 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 | [ShopWise](https://github.com/Bothokakula/shopwise-oop-java) | Java OOP e-commerce demo showcasing encapsulation, inheritance, and polymorphism | Java |
 
 ---
+## 🎨 UX/UI Design
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **StudentMate** | Designed a high-fidelity interactive prototype for a student productivity application using Figma. Applied User-Centred Design (UCD), Norman's Design Principles, and Shneiderman's Eight Golden Rules to create an intuitive, accessible, and user-friendly experience. Produced responsive layouts, interactive forms, reusable UI components, and complete navigation flows supported by usability analysis. | Figma, UX Research, UI Design |
+
+> 🔗 **Figma Prototype:**  https://www.figma.com/proto/6oHicnlKWAJBIhw4QNl5WX/Studentmate?page-id=0%3A1&node-id=1-2&viewport=415%2C-181%2C2.45&t=gdgyuVnUtpxEbSpy-1&scaling=scale-down-width&content-scaling=fixed
 
 ## 🎓 Education
 
@@ -50,4 +57,4 @@ Varsity College, Johannesburg | 2023
 
 ---
 
-*Open to graduate opportunities *
+
