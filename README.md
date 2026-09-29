@@ -28,7 +28,7 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 
 | Project | Description | Tech |
 |---|---|---|
-| [GLMS](https://github.com/Bothokakula) | Global Logistics Management System — service-oriented .NET API with JWT auth, Docker, and 49 xUnit tests | C#, ASP.NET Core, Docker, JWT |
+| [GLMS](https://github.com/Bothokakula/GLMS.git) | Global Library Management System — service-oriented .NET API with JWT auth, Docker, and 49 xUnit tests | C#, ASP.NET Core, Docker, JWT |
 | [Saving Cents](https://github.com/Bothokakula/saving-cents) | Android budgeting app for tracking income, expenses, and savings goals | Kotlin, Android, Supabase |
 | [ShopWise](https://github.com/Bothokakula/shopwise-oop-java) | Java OOP e-commerce demo showcasing encapsulation, inheritance, and polymorphism | Java |
 
