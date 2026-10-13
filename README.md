@@ -2,7 +2,7 @@
 
 Final-year Application Development student at IIE Emeris Waterfall (Varsity College), Johannesburg. I build full-stack, mobile, and backend solutions with a focus on clean architecture, security, and maintainable code.
 
-🎯 Open to graduate roles in **software engineering** and **technology risk** from 2027.
+🎯 Open to graduate roles in **software engineering**, **business analysis** and **technology risk** from 2027.
 
 ---
 
@@ -40,6 +40,7 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 | [GLMS](https://github.com/Bothokakula/GLMS) | Global Logistics Management System — service-oriented ASP.NET Core 8 app (MVC client + Web API) with JWT auth, Docker Compose, design patterns, and 49 xUnit tests | C#, ASP.NET Core, EF Core, Docker, JWT |
 | [CyberAware](https://github.com/Bothokakula/cybersecurity-awareness-chatbot) · [**Live demo**](https://cyberaware-za.streamlit.app) | Cybersecurity awareness chatbot for South Africans — answers questions on phishing, OTP and SIM-swap scams, with explainable phishing and password checkers | Python, scikit-learn, Streamlit, pytest |
 | [Bread Bar API](https://github.com/Bothokakula/bread-bar-api) | Secure REST + real-time backend for a food business's customer and staff apps, built for a real client: JWT auth, RBAC, order workflow, stock, live updates, 39 tests | Node.js, Express, MongoDB, Socket.IO, Jest |
+| [Bakery Sales SQL Analysis](https://github.com/Bothokakula/bakery-sales-sql-analysis) | Business analysis of a year of sales for a bakery chain — 15 SQL queries (CTEs, window functions, cohort retention, RFM segmentation) turned into 12 findings and recommendations | SQL, SQLite, Python |
 | [Saving Cents](https://github.com/Bothokakula/Saving-Cents) | Android budgeting app for tracking income, expenses, and savings goals (team project) | Kotlin, Android, Supabase |
 | [ShopWise](https://github.com/Bothokakula/shopwise-oop-java) | Java OOP e-commerce demo showcasing encapsulation, inheritance, and polymorphism | Java |
 
@@ -67,4 +68,5 @@ Varsity College, Johannesburg | 2023
 [![Email](https://img.shields.io/badge/Email-kbotho772%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kbotho772@gmail.com)
 
 ---
+
 
