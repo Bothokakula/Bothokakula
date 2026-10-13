@@ -27,6 +27,9 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -36,6 +39,7 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 |---|---|---|
 | [GLMS](https://github.com/Bothokakula/GLMS) | Global Logistics Management System — service-oriented ASP.NET Core 8 app (MVC client + Web API) with JWT auth, Docker Compose, design patterns, and 49 xUnit tests | C#, ASP.NET Core, EF Core, Docker, JWT |
 | [CyberAware](https://github.com/Bothokakula/cybersecurity-awareness-chatbot) · [**Live demo**](https://cyberaware-za.streamlit.app) | Cybersecurity awareness chatbot for South Africans — answers questions on phishing, OTP and SIM-swap scams, with explainable phishing and password checkers | Python, scikit-learn, Streamlit, pytest |
+| [Bread Bar API](https://github.com/Bothokakula/bread-bar-api) | Secure REST + real-time backend for a food business's customer and staff apps, built for a real client: JWT auth, RBAC, order workflow, stock, live updates, 39 tests | Node.js, Express, MongoDB, Socket.IO, Jest |
 | [Saving Cents](https://github.com/Bothokakula/Saving-Cents) | Android budgeting app for tracking income, expenses, and savings goals (team project) | Kotlin, Android, Supabase |
 | [ShopWise](https://github.com/Bothokakula/shopwise-oop-java) | Java OOP e-commerce demo showcasing encapsulation, inheritance, and polymorphism | Java |
 
