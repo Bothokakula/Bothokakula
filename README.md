@@ -35,7 +35,7 @@ Final-year Application Development student at IIE Emeris Waterfall (Varsity Coll
 | Project | Description | Tech |
 |---|---|---|
 | [GLMS](https://github.com/Bothokakula/GLMS) | Global Logistics Management System — service-oriented ASP.NET Core 8 app (MVC client + Web API) with JWT auth, Docker Compose, design patterns, and 49 xUnit tests | C#, ASP.NET Core, EF Core, Docker, JWT |
-| [CyberAware](https://github.com/Bothokakula/cybersecurity-awareness-chatbot) | Cybersecurity awareness chatbot for South Africans — answers questions on phishing, OTP and SIM-swap scams, with explainable phishing and password checkers | Python, scikit-learn, Streamlit, pytest |
+| [CyberAware](https://github.com/Bothokakula/cybersecurity-awareness-chatbot) · [**Live demo**](https://cyberaware-za.streamlit.app) | Cybersecurity awareness chatbot for South Africans — answers questions on phishing, OTP and SIM-swap scams, with explainable phishing and password checkers | Python, scikit-learn, Streamlit, pytest |
 | [Saving Cents](https://github.com/Bothokakula/Saving-Cents) | Android budgeting app for tracking income, expenses, and savings goals (team project) | Kotlin, Android, Supabase |
 | [ShopWise](https://github.com/Bothokakula/shopwise-oop-java) | Java OOP e-commerce demo showcasing encapsulation, inheritance, and polymorphism | Java |
 
